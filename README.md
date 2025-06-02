@@ -5,7 +5,7 @@
 ## Technologies
 
 
-[![Frameworks](https://skillicons.dev/icons?i=nextjs,express,react,nodejs,flask,tailwind,astro,tauri,vite)](https://skillicons.dev)
+[![Frameworks](https://skillicons.dev/icons?i=nextjs,express,react,nodejs,flask,tailwind,astro,tauri,vite)]()
 
 
 
