@@ -1,5 +1,5 @@
 ## About me
-Designer, Developer & 3D Artist trying to make a difference.
+Designer | Developer | 3D Artist trying to make a difference.
 ## Socials
 
 ## Technologies
