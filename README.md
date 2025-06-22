@@ -5,7 +5,7 @@ Designer | Developer | 3D Artist trying to make a difference.
 ## Technologies
 
 
-[![Frameworks](https://skillicons.dev/icons?i=nextjs,express,react,nodejs,flask,tailwind,astro,tauri,vite)]()
+[![Frameworks](https://skillicons.dev/icons?i=nextjs,react,express,nodejs,flask,tailwind,astro,tauri,vite)]()
 
 
 
