@@ -4,7 +4,6 @@ I'm a passionate Web Developer, UX Designer, and Graphic Designer. I love bringi
 When I'm not crafting digital masterpieces, I'm probably immersed in the world of 3D Art – it's a fantastic hobby that lets my creativity run wild!
 
 ## Socials
-[![](https://img.shields.io/badge/Youtube-da2020?style=flat-square&logo=youtube)](https://www.youtube.com/@hassaanvfx)
 [![Socials](https://skillicons.dev/icons?i=twitter,)](https://x.com/hassaanvfx)
 ## Technologies
 
