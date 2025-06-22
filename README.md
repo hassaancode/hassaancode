@@ -13,4 +13,4 @@ When I'm not crafting digital masterpieces, I'm probably immersed in the world o
 [![Technologies](https://skillicons.dev/icons?i=html,css,js,nextjs,react,astro,vite,tailwind,mongodb,firebase,git,github)]()
 
 ## Tools
-[![Tools](https://skillicons.dev/icons?i=figma,vscode,ps,ai,ae,vscode,blender,unreal,")]()
+[![Tools](https://skillicons.dev/icons?i=figma,vscode,ps,ai,ae,blender,unreal,")]()
