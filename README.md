@@ -8,7 +8,6 @@ When I'm not crafting digital masterpieces, I'm probably immersed in the world o
 [![Static Badge](https://img.shields.io/badge/Instagram-d2566b?style=for-the-badge&logo=instagram)](https://www.instagram.com/hassaan_vfx/)
 [![Static Badge](https://img.shields.io/badge/Twitter/X-000000?style=for-the-badge&logo=X)](https://x.com/hassaanvfx)
 
-
 ## 💻 Technologies
 [![Technologies](https://skillicons.dev/icons?i=html,css,js,nextjs,react,astro,vite,tailwind,mongodb,firebase,git,github)]()
 
