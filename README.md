@@ -1,4 +1,4 @@
-## Hi There2 👋
+## Hi There 👋
 I'm a passionate Frontend Engineer. I love bringing ideas to life through code and design, creating engaging and user-friendly experiences.
 
 When I'm not crafting digital masterpieces, I'm probably immersed in the world of 3D Art – it's a fantastic hobby that lets my creativity run wild!
